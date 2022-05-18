@@ -6,7 +6,8 @@ This app should generate passages of lorem ipsum text suitable for use as placeh
 ## User Stories
 
 -   [ ] `User` can type into an input field the number of paragraphs of lorem ipsum to be generated
--   [ ] `User` can see the generated paragraphs of lorem ipsum. Also, the `User` is able to copy and paste the generated lorem ipsum paragraph.
+-   [ ] `User` can see the generated paragraphs of lorem ipsum 
+-   [ ] `User` can copy-and-paste the generated lorem ipsum paragraph
 
 ## Useful links and resources
 
